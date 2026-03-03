@@ -34,11 +34,9 @@ I'm an aspiring **Data Technology & AI** student with a passion for building cle
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![simzelele's GitHub stats](https://github-readme-stats.vercel.app/api?username=simzelele&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simzelele&layout=compact&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=simzelele&theme=default&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
